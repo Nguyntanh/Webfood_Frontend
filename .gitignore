@@ -6,10 +6,6 @@
 /.pnp
 .pnp.js
 
-# backend
-/server
-!/server/jenkins/Jenkinsfile
-
 # testing
 /coverage
 
